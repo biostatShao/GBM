@@ -27,3 +27,6 @@ We are very grateful to any questions, comments, or bugs reports; and please con
 
 ## Update
 2022-01-25 MCA version 1.0.
+
+## Acknowledgement
+Part of the code is modified from existing packages in our work, but made further optimization for some methods for improving computational speed.
